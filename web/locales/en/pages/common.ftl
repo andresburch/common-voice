@@ -1,9 +1,6 @@
 # Don't rename the following section, its contents are auto-inserted based on the name (see scripts/pontoon-languages-to-ftl.js)
 # [Languages]
-
-
 ## Languages
-
 ab = Abkhaz
 ace = Acehnese
 ady = Adyghe
@@ -15,7 +12,9 @@ arn = Mapudungun
 as = Assamese
 ast = Asturian
 az = Azerbaijani
+azz = Highland Puebla Nahuatl
 ba = Bashkir
+bal = Balochi
 bas = Basaa
 be = Belarusian
 bg = Bulgarian
@@ -28,6 +27,7 @@ bxr = Buryat
 byv = Medumba
 ca = Catalan
 cak = Kaqchikel
+cdo = Eastern Min
 ckb = Central Kurdish
 cnh = Hakha Chin
 co = Corsican
@@ -37,6 +37,8 @@ cv = Chuvash
 cy = Welsh
 da = Danish
 dag = Dagbani
+dar = Dargwa
+dav = Kidaw'ida
 de = German
 dsb = Sorbian, Lower
 dv = Dhivehi
@@ -59,6 +61,7 @@ ga-IE = Irish
 gl = Galician
 gn = Guarani
 gom = Goan Konkani
+gos = Gronings
 gu-IN = Gujarati
 guc = Wayuunaiki
 ha = Hausa
@@ -87,6 +90,7 @@ kab = Kabyle
 kbd = Kabardian
 ki = Kikuyu
 kk = Kazakh
+kln = Kalenjin
 km = Khmer
 kmr = Kurmanji Kurdish
 kn = Kannada
@@ -102,6 +106,7 @@ ln = Lingala
 lo = Lao
 lt = Lithuanian
 ltg = Latgalian
+luo = Dholuo
 lv = Latvian
 lzz = Laz
 mai = Maithili
@@ -128,6 +133,7 @@ nhi = Western Sierra Puebla Nahuatl
 nia = Nias
 nl = Dutch
 nn-NO = Norwegian Nynorsk
+nqo = NKo
 nr = IsiNdebele (South)
 nso = Northern Sotho
 ny = Chinyanja
@@ -157,6 +163,7 @@ sco = Scots
 sd = Sindhi
 sdh = Southern Kurdish
 shi = Shilha
+shn = Shan
 si = Sinhala
 sk = Slovak
 skr = Saraiki
@@ -209,7 +216,6 @@ zh-HK = Chinese (Hong Kong)
 zh-TW = Chinese (Taiwan)
 zu = Zulu
 zza = Zaza
-
 # [/]
 
 
